@@ -1,0 +1,58 @@
+line
+0 0 0 300 0 0
+line
+0 0 0 0 75 0
+line
+300 0 0 300 75 0
+line
+0 75 0 300 75 0
+line
+50 75 0 50 125 0
+line
+250 75 0 250 125 0
+line
+50 125 0 250 125 0
+line
+100 125 0 100 175 0
+line
+200 125 0 200 175 0
+line
+100 175 0 200 175 0
+line
+200 140 0 300 140 0
+line
+200 160 0 300 160 0
+line
+300 140 0 300 160 0
+display
+ident
+move
+25 0 0
+apply
+display
+ident
+move
+25 0 0
+apply
+display
+ident
+move
+25 0 0
+apply
+display
+line
+425 140 0 450 140 0
+line
+425 140 0 425 160 0
+line
+450 140 0 450 160 0
+line
+425 160 0 450 160 0
+ident
+move
+25 0 0
+apply
+display
+save
+gallery.png
+quit
